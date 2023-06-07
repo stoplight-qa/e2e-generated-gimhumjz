@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Gimhumjz",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjc"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjc",
+      "name": "Refined Frozen Chair",
+      "slug": "seeded-refined-frozen-chair-atloj",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
